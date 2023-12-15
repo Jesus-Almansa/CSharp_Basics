@@ -1,0 +1,15 @@
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\bin\Debug\net8.0\HolaMundo.exe
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\bin\Debug\net8.0\HolaMundo.deps.json
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\bin\Debug\net8.0\HolaMundo.dll
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\bin\Debug\net8.0\HolaMundo.pdb
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.sourcelink.json
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.dll
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\refint\HolaMundo.dll
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.pdb
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+C:\Users\JT\Documents\CSharp_Basics\HolaMundo\obj\Debug\net8.0\ref\HolaMundo.dll
