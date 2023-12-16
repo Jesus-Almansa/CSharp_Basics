@@ -1,0 +1,15 @@
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.exe
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.deps.json
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.runtimeconfig.json
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.dll
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.pdb
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.AssemblyInfoInputs.cache
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.AssemblyInfo.cs
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.sourcelink.json
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.dll
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\refint\Shape Area Calculator.dll
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.pdb
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.genruntimeconfig.cache
+C:\Users\JT\Documents\CSharp_Basics\Shape Area Calculator\Shape Area Calculator\obj\Debug\net8.0\ref\Shape Area Calculator.dll
